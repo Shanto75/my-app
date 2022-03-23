@@ -1,6 +1,6 @@
 {
-  "homepage": "https://Shanto75.github.io/my-App",
   "name": "my-app",
+  "homepage": "https://Shanto75.github.io/my-App",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
